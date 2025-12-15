@@ -191,9 +191,9 @@
                                     </li>
 
                                     <li class="dropdown nav-item">
-                                        <a class="nav-link" href="#" data-toggle="dropdown">
-                                            <span class="material-icons">person</span>
-                                        </a>
+                                      <a class="nav-link" href="#" data-toggle="dropdown">
+                                        <span class="material-icons">person</span>
+                                      </a>
                                         <ul class="dropdown-menu small-menu">
                                             <li><a href="#">
                                                 <span class="material-icons">person_outline</span>
