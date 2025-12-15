@@ -16,4 +16,4 @@ public class StoreProductHome extends HttpServlet {
         session.removeAttribute("idCate");
         resp.sendRedirect("ProductController");
     }
-}
+}  
